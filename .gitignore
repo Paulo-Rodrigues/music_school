@@ -2,5 +2,5 @@
 /tmp
 .env.local
 .env.*.local
-.env.develpment
+.env.development
 .env.test
