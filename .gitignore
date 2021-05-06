@@ -1,0 +1,6 @@
+/public/assets*
+/tmp
+.env.local
+.env.*.local
+.env.develpment
+.env.test
